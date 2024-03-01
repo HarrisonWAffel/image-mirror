@@ -1500,6 +1500,7 @@ registry.k8s.io/sig-storage/livenessprobe rancher/mirrored-sig-storage-livenessp
 registry.k8s.io/sig-storage/livenessprobe rancher/mirrored-sig-storage-livenessprobe v2.9.0
 registry.k8s.io/sig-storage/livenessprobe rancher/mirrored-sig-storage-livenessprobe v2.10.0
 registry.k8s.io/sig-storage/livenessprobe rancher/mirrored-sig-storage-livenessprobe v2.11.0
+registry.k8s.io/sig-storage/livenessprobe rancher/mirrored-sig-storage-livenessprobe v2.12.0
 registry.k8s.io/sig-storage/snapshot-controller rancher/mirrored-sig-storage-snapshot-controller v6.1.0
 registry.k8s.io/sig-storage/snapshot-controller rancher/mirrored-sig-storage-snapshot-controller v6.2.1
 registry.k8s.io/sig-storage/snapshot-validation-webhook rancher/mirrored-sig-storage-snapshot-validation-webhook v6.1.0
