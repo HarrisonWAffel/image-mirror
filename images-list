@@ -1482,6 +1482,7 @@ registry.k8s.io/sig-storage/csi-provisioner rancher/mirrored-sig-storage-csi-pro
 registry.k8s.io/sig-storage/csi-provisioner rancher/mirrored-sig-storage-csi-provisioner v3.6.0
 registry.k8s.io/sig-storage/csi-provisioner rancher/mirrored-sig-storage-csi-provisioner v3.6.1
 registry.k8s.io/sig-storage/csi-provisioner rancher/mirrored-sig-storage-csi-provisioner v3.6.2
+registry.k8s.io/sig-storage/csi-provisioner rancher/mirrored-sig-storage-csi-provisioner v4.0.0
 registry.k8s.io/sig-storage/csi-resizer rancher/mirrored-sig-storage-csi-resizer v1.3.0
 registry.k8s.io/sig-storage/csi-resizer rancher/mirrored-sig-storage-csi-resizer v1.4.0
 registry.k8s.io/sig-storage/csi-resizer rancher/mirrored-sig-storage-csi-resizer v1.6.0
