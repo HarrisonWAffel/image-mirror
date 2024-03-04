@@ -733,6 +733,7 @@ longhornio/support-bundle-kit rancher/mirrored-longhornio-support-bundle-kit v0.
 longhornio/support-bundle-kit rancher/mirrored-longhornio-support-bundle-kit v0.0.24
 longhornio/support-bundle-kit rancher/mirrored-longhornio-support-bundle-kit v0.0.25
 longhornio/support-bundle-kit rancher/mirrored-longhornio-support-bundle-kit v0.0.27
+mcr.microsoft.com/oss/kubernetes/windows-host-process-containers-base-image rancher/mirrored-microsoft-windows-host-process-containers-base-image v1.0.0
 messagebird/sachet rancher/mirrored-messagebird-sachet 0.2.3
 messagebird/sachet rancher/mirrored-messagebird-sachet 0.2.6
 messagebird/sachet rancher/mirrored-messagebird-sachet 0.3.1
