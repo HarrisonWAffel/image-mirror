@@ -1464,6 +1464,7 @@ registry.k8s.io/sig-storage/csi-attacher rancher/mirrored-sig-storage-csi-attach
 registry.k8s.io/sig-storage/csi-attacher rancher/mirrored-sig-storage-csi-attacher v4.4.0
 registry.k8s.io/sig-storage/csi-attacher rancher/mirrored-sig-storage-csi-attacher v4.4.1
 registry.k8s.io/sig-storage/csi-attacher rancher/mirrored-sig-storage-csi-attacher v4.4.2
+registry.k8s.io/sig-storage/csi-attacher rancher/mirrored-sig-storage-csi-attacher v4.5.0
 registry.k8s.io/sig-storage/csi-node-driver-registrar rancher/mirrored-sig-storage-csi-node-driver-registrar v2.3.0
 registry.k8s.io/sig-storage/csi-node-driver-registrar rancher/mirrored-sig-storage-csi-node-driver-registrar v2.5.0
 registry.k8s.io/sig-storage/csi-node-driver-registrar rancher/mirrored-sig-storage-csi-node-driver-registrar v2.5.1
