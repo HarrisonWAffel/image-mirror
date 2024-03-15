@@ -1535,6 +1535,7 @@ registry.k8s.io/sig-storage/csi-resizer rancher/mirrored-sig-storage-csi-resizer
 registry.k8s.io/sig-storage/csi-resizer rancher/mirrored-sig-storage-csi-resizer v1.9.0
 registry.k8s.io/sig-storage/csi-resizer rancher/mirrored-sig-storage-csi-resizer v1.9.1
 registry.k8s.io/sig-storage/csi-resizer rancher/mirrored-sig-storage-csi-resizer v1.9.2
+registry.k8s.io/sig-storage/csi-resizer rancher/mirrored-sig-storage-csi-resizer v1.10.0
 registry.k8s.io/sig-storage/csi-snapshotter rancher/mirrored-sig-storage-csi-snapshotter v5.0.1
 registry.k8s.io/sig-storage/csi-snapshotter rancher/mirrored-sig-storage-csi-snapshotter v6.0.1
 registry.k8s.io/sig-storage/csi-snapshotter rancher/mirrored-sig-storage-csi-snapshotter v6.2.1
