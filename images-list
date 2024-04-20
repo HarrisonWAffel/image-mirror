@@ -505,6 +505,7 @@ library/traefik rancher/mirrored-library-traefik 2.9.1
 library/traefik rancher/mirrored-library-traefik 2.9.4
 library/traefik rancher/mirrored-library-traefik 2.9.10
 library/traefik rancher/mirrored-library-traefik 2.10.5
+library/traefik rancher/mirrored-library-traefik 2.11.2
 longhornio/backing-image-manager rancher/longhornio-backing-image-manager v1_20210422
 longhornio/backing-image-manager rancher/longhornio-backing-image-manager v1_20210422_patch1
 longhornio/backing-image-manager rancher/longhornio-backing-image-manager v2_20210820
