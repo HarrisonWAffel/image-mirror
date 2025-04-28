@@ -1935,6 +1935,7 @@ registry.k8s.io/dns/k8s-dns-sidecar rancher/mirrored-k8s-dns-sidecar 1.22.28
 registry.k8s.io/dns/k8s-dns-sidecar rancher/mirrored-k8s-dns-sidecar 1.23.0
 registry.k8s.io/git-sync/git-sync rancher/mirrored-git-sync v3.5.0
 registry.k8s.io/gmsa-webhook/k8s-gmsa-webhook rancher/mirrored-gmsa-webhook-k8s-gmsa-webhook v0.7.0
+registry.k8s.io/gmsa-webhook/k8s-gmsa-webhook rancher/mirrored-gmsa-webhook-k8s-gmsa-webhook v0.13.0
 registry.k8s.io/ingress-nginx/kube-webhook-certgen rancher/mirrored-ingress-nginx-kube-webhook-certgen v1.0
 registry.k8s.io/ingress-nginx/kube-webhook-certgen rancher/mirrored-ingress-nginx-kube-webhook-certgen v1.1.1
 registry.k8s.io/ingress-nginx/kube-webhook-certgen rancher/mirrored-ingress-nginx-kube-webhook-certgen v1.3.0
