@@ -237,6 +237,7 @@ ghcr.io/kube-vip/kube-vip-iptables rancher/mirrored-kube-vip-kube-vip-iptables v
 ghcr.io/kube-vip/kube-vip-iptables rancher/mirrored-kube-vip-kube-vip-iptables v0.8.9
 ghcr.io/kube-vip/kube-vip-iptables rancher/mirrored-kube-vip-kube-vip-iptables v0.8.10
 ghcr.io/kube-vip/kube-vip-iptables rancher/mirrored-kube-vip-kube-vip-iptables v0.9.0
+ghcr.io/kube-vip/kube-vip-iptables rancher/mirrored-kube-vip-kube-vip-iptables v0.9.1
 ghcr.io/prometheus-community/windows-exporter rancher/mirrored-prometheus-windows-exporter 0.25.1
 ghcr.io/prometheus-community/windows-exporter rancher/mirrored-prometheus-windows-exporter 0.30.5
 grafana/grafana rancher/grafana-grafana 7.1.5
