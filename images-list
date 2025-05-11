@@ -268,6 +268,7 @@ idealista/prom2teams rancher/mirrored-idealista-prom2teams 3.2.2
 idealista/prom2teams rancher/mirrored-idealista-prom2teams 3.2.3
 idealista/prom2teams rancher/mirrored-idealista-prom2teams 4.2.0
 idealista/prom2teams rancher/mirrored-idealista-prom2teams 4.2.1
+idealista/prom2teams rancher/mirrored-idealista-prom2teams 5.0.0
 istio/citadel rancher/mirrored-istio-citadel 1.5.9
 istio/coredns-plugin rancher/istio-coredns-plugin 0.2-istio-1.1
 istio/coredns-plugin rancher/mirrored-istio-coredns-plugin 0.2-istio-1.1
