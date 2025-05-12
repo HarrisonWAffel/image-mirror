@@ -1887,6 +1887,7 @@ registry.k8s.io/cloud-pv-vsphere/cloud-provider-vsphere rancher/mirrored-cloud-p
 registry.k8s.io/cloud-pv-vsphere/cloud-provider-vsphere rancher/mirrored-cloud-provider-vsphere v1.32.0
 registry.k8s.io/cloud-pv-vsphere/cloud-provider-vsphere rancher/mirrored-cloud-provider-vsphere v1.32.1
 registry.k8s.io/cloud-pv-vsphere/cloud-provider-vsphere rancher/mirrored-cloud-provider-vsphere v1.32.2
+registry.k8s.io/cloud-pv-vsphere/cloud-provider-vsphere rancher/mirrored-cloud-provider-vsphere v1.33.0
 registry.k8s.io/cluster-api/cluster-api-controller rancher/mirrored-cluster-api-controller v1.4.4
 registry.k8s.io/cluster-api/cluster-api-controller rancher/mirrored-cluster-api-controller v1.5.5
 registry.k8s.io/cluster-api/cluster-api-controller rancher/mirrored-cluster-api-controller v1.6.4
