@@ -1110,6 +1110,7 @@ quay.io/calico/apiserver rancher/mirrored-calico-apiserver v3.29.0
 quay.io/calico/apiserver rancher/mirrored-calico-apiserver v3.29.1
 quay.io/calico/apiserver rancher/mirrored-calico-apiserver v3.29.2
 quay.io/calico/apiserver rancher/mirrored-calico-apiserver v3.29.3
+quay.io/calico/apiserver rancher/mirrored-calico-apiserver v3.30.0
 quay.io/calico/cni rancher/calico-cni v3.16.5
 quay.io/calico/cni rancher/calico-cni v3.16.6
 quay.io/calico/cni rancher/calico-cni v3.17.1
@@ -1154,6 +1155,7 @@ quay.io/calico/cni rancher/mirrored-calico-cni v3.29.0
 quay.io/calico/cni rancher/mirrored-calico-cni v3.29.1
 quay.io/calico/cni rancher/mirrored-calico-cni v3.29.2
 quay.io/calico/cni rancher/mirrored-calico-cni v3.29.3
+quay.io/calico/cni rancher/mirrored-calico-cni v3.30.0
 quay.io/calico/csi rancher/mirrored-calico-csi v3.27.0
 quay.io/calico/csi rancher/mirrored-calico-csi v3.27.2
 quay.io/calico/csi rancher/mirrored-calico-csi v3.27.3
@@ -1165,6 +1167,7 @@ quay.io/calico/csi rancher/mirrored-calico-csi v3.29.0
 quay.io/calico/csi rancher/mirrored-calico-csi v3.29.1
 quay.io/calico/csi rancher/mirrored-calico-csi v3.29.2
 quay.io/calico/csi rancher/mirrored-calico-csi v3.29.3
+quay.io/calico/csi rancher/mirrored-calico-csi v3.30.0
 quay.io/calico/ctl rancher/calico-ctl v3.16.5
 quay.io/calico/ctl rancher/calico-ctl v3.16.6
 quay.io/calico/ctl rancher/calico-ctl v3.17.1
@@ -1211,6 +1214,7 @@ quay.io/calico/ctl rancher/mirrored-calico-ctl v3.29.0
 quay.io/calico/ctl rancher/mirrored-calico-ctl v3.29.1
 quay.io/calico/ctl rancher/mirrored-calico-ctl v3.29.2
 quay.io/calico/ctl rancher/mirrored-calico-ctl v3.29.3
+quay.io/calico/ctl rancher/mirrored-calico-ctl v3.30.0
 quay.io/calico/kube-controllers rancher/calico-kube-controllers v3.16.5
 quay.io/calico/kube-controllers rancher/calico-kube-controllers v3.16.6
 quay.io/calico/kube-controllers rancher/calico-kube-controllers v3.17.1
@@ -1255,6 +1259,7 @@ quay.io/calico/kube-controllers rancher/mirrored-calico-kube-controllers v3.29.0
 quay.io/calico/kube-controllers rancher/mirrored-calico-kube-controllers v3.29.1
 quay.io/calico/kube-controllers rancher/mirrored-calico-kube-controllers v3.29.2
 quay.io/calico/kube-controllers rancher/mirrored-calico-kube-controllers v3.29.3
+quay.io/calico/kube-controllers rancher/mirrored-calico-kube-controllers v3.30.0
 quay.io/calico/node rancher/calico-node v3.16.5
 quay.io/calico/node rancher/calico-node v3.16.6
 quay.io/calico/node rancher/calico-node v3.17.1
@@ -1299,6 +1304,7 @@ quay.io/calico/node rancher/mirrored-calico-node v3.29.0
 quay.io/calico/node rancher/mirrored-calico-node v3.29.1
 quay.io/calico/node rancher/mirrored-calico-node v3.29.2
 quay.io/calico/node rancher/mirrored-calico-node v3.29.3
+quay.io/calico/node rancher/mirrored-calico-node v3.30.0
 quay.io/calico/node-driver-registrar rancher/mirrored-calico-node-driver-registrar v3.27.0
 quay.io/calico/node-driver-registrar rancher/mirrored-calico-node-driver-registrar v3.27.2
 quay.io/calico/node-driver-registrar rancher/mirrored-calico-node-driver-registrar v3.27.3
@@ -1310,6 +1316,7 @@ quay.io/calico/node-driver-registrar rancher/mirrored-calico-node-driver-registr
 quay.io/calico/node-driver-registrar rancher/mirrored-calico-node-driver-registrar v3.29.1
 quay.io/calico/node-driver-registrar rancher/mirrored-calico-node-driver-registrar v3.29.2
 quay.io/calico/node-driver-registrar rancher/mirrored-calico-node-driver-registrar v3.29.3
+quay.io/calico/node-driver-registrar rancher/mirrored-calico-node-driver-registrar v3.30.0
 quay.io/calico/pod2daemon-flexvol rancher/calico-pod2daemon-flexvol v3.16.5
 quay.io/calico/pod2daemon-flexvol rancher/calico-pod2daemon-flexvol v3.16.6
 quay.io/calico/pod2daemon-flexvol rancher/calico-pod2daemon-flexvol v3.17.1
@@ -1354,6 +1361,7 @@ quay.io/calico/pod2daemon-flexvol rancher/mirrored-calico-pod2daemon-flexvol v3.
 quay.io/calico/pod2daemon-flexvol rancher/mirrored-calico-pod2daemon-flexvol v3.29.1
 quay.io/calico/pod2daemon-flexvol rancher/mirrored-calico-pod2daemon-flexvol v3.29.2
 quay.io/calico/pod2daemon-flexvol rancher/mirrored-calico-pod2daemon-flexvol v3.29.3
+quay.io/calico/pod2daemon-flexvol rancher/mirrored-calico-pod2daemon-flexvol v3.30.0
 quay.io/calico/typha rancher/mirrored-calico-typha v3.18.1
 quay.io/calico/typha rancher/mirrored-calico-typha v3.19.1
 quay.io/calico/typha rancher/mirrored-calico-typha v3.19.2
@@ -1389,6 +1397,7 @@ quay.io/calico/typha rancher/mirrored-calico-typha v3.29.0
 quay.io/calico/typha rancher/mirrored-calico-typha v3.29.1
 quay.io/calico/typha rancher/mirrored-calico-typha v3.29.2
 quay.io/calico/typha rancher/mirrored-calico-typha v3.29.3
+quay.io/calico/typha rancher/mirrored-calico-typha v3.30.0
 quay.io/cilium/certgen rancher/mirrored-cilium-certgen v0.1.8
 quay.io/cilium/certgen rancher/mirrored-cilium-certgen v0.1.9
 quay.io/cilium/certgen rancher/mirrored-cilium-certgen v0.1.11
