@@ -1695,6 +1695,7 @@ quay.io/coreos/etcd rancher/mirrored-coreos-etcd v3.5.18
 quay.io/coreos/etcd rancher/mirrored-coreos-etcd v3.5.19
 quay.io/coreos/etcd rancher/mirrored-coreos-etcd v3.5.20
 quay.io/coreos/etcd rancher/mirrored-coreos-etcd v3.5.21
+quay.io/coreos/etcd rancher/mirrored-coreos-etcd v3.6.0
 quay.io/coreos/flannel rancher/mirrored-coreos-flannel v0.13.0
 quay.io/coreos/flannel rancher/mirrored-coreos-flannel v0.14.0
 quay.io/coreos/flannel rancher/mirrored-coreos-flannel v0.15.0
